@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationREST", "WebApplicationREST\WebApplicationREST.csproj", "{31368605-6D7F-469C-9B13-5B65D10887FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiREST", "WebApiREST\WebApiREST.csproj", "{31368605-6D7F-469C-9B13-5B65D10887FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
